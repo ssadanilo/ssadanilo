@@ -12,4 +12,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Cursando Programador Full Stack na Infinity School Salvador, e cada dia aprendendo mais e mais. 
+Cursando Programação Full Stack na Infinity School Salvador, e cada dia aprendendo mais e mais. 
